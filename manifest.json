@@ -6,8 +6,7 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#d004db",
-  "orientation": "standalone",
-  "scope": "./",
+  "scope": "https://dalaja12.github.io/",
   "lang": "es-MX",
   "prefer_related_applications": false,
   "icons": [
