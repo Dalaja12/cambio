@@ -6,9 +6,8 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#d004db",
-  "orientation" :"standalone",
-  "scope": "./",
-  "lang":"es-MX",
+  "scope": "/",
+  "lang": "es-MX",
   "icons": [
     {
       "src": "js/1.png",
